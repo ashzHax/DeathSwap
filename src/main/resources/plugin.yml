@@ -1,0 +1,11 @@
+name: "DeathSwap"
+main: "axc.DeathSwap.DeathSwap"
+version: "1.0"
+author: "ashzHax"
+api-version: "1.17"
+prefix: "DeathSwap"
+description: "Simple and fun game."
+commands:
+  start_deathswap:
+    description: "Start the DeathSwap."
+

@@ -1,0 +1,12 @@
+messages:
+  permission_no_perm:     "{GRAY}{BOLD}[{RED}{BOLD}!{GRAY}{BOLD}] {GRAY}you do not have permission to use this command"
+  deathswap_running:      "{GRAY}{BOLD}[{RED}{BOLD}!{GRAY}{BOLD}] {RED}{BOLD}DeathSwap {GRAY}is already in progress"
+  deathswap_start:        "{GRAY}{BOLD}[{GREEN}{BOLD}!{GRAY}{BOLD}] {GRAY}started {RED}{BOLD}DeathSwap {GRAY}{ITALIC}({NUMBER} second(s) interval)"
+  deathswap_stop:         "{GRAY}{BOLD}[{YELLOW}{BOLD}!{GRAY}{BOLD}] {RED}forced stopped DeathSwap"
+  deathswap_ten_sec_warn: "{GRAY}{BOLD}[{YELLOW}{BOLD}-{GRAY}{BOLD}] {GRAY}swapping in {RED}{NUMBER}{GRAY}..."
+  deathswap_on_swap:      "{GRAY}{BOLD}[{YELLOW}{BOLD}!{GRAY}{BOLD}] {GOLD}INITIATING PLAYER SWAP"
+  deathswap_end:          "{GRAY}{BOLD}[{GREEN}{BOLD}!{GRAY}{BOLD}] {RED}{BOLD}DeathSwap has ended!"
+  invalid_argument_type:  "invalid argument type"
+  require_arguments:      "require command arguments"
+deathswap:
+  in_progress: 0
